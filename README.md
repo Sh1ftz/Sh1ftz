@@ -29,4 +29,4 @@ Também conhecido como **Sh1ft**. Aqui no GitHub e no YouTube eu documento minha
 
 - [LinkedIn](https://www.linkedin.com/in/roberio-dev/)
 - [YouTube](https://www.youtube.com/@Sh1ftTech)
-- [Instagram](https://instagram.com/roberio.dev)
+- [Instagram](https://instagram.com/roberiodev)
