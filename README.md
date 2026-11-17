@@ -27,7 +27,7 @@ Também conhecido como **Sh1ft**. Aqui no GitHub e no YouTube eu documento minha
 
 ## 🚀 Projetos
 
-- *Criando
+- *Criando*
 
 ## 📫 Onde me encontrar
 
