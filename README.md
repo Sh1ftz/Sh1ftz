@@ -1,7 +1,7 @@
 # Olá, eu sou o Robério 👋
 
 Estudante de **Engenharia de Software** apaixonado por tecnologia e programação.
-Também conhecido como **Sh1ft**. Aqui no GitHub e no YouTube eu documento minha evolução na área até o primeiro emprego como desenvolvedor.
+Também conhecido como **Sh1ft**. Aqui no GitHub e no YouTube eu documento minha evolução na área.
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
