@@ -25,10 +25,6 @@ Também conhecido como **Sh1ft**. Aqui no GitHub e no YouTube eu documento minha
 - Lógica de programação e algoritmos
 - Estruturas de dados
 
-## 🚀 Projetos
-
-- *Criando*
-
 ## 📫 Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/roberio-dev/)
